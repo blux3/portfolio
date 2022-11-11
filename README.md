@@ -1,6 +1,6 @@
 # **About**
 
-<img src="https://drive.google.com/uc?id=1T9WQmVN5mk2bkVV7DFJ1etc6jyyl3_d7" width="163">
+<img src="https://drive.google.com/uc?id=1uUaRY_2qBOYhgMRUpWTZE2vGbRsmfmN7" width="163">
 
 I’m a crypto analyst, DeFi specialist, protocol investigator, and general crypto asset enthusiast with 3+ years of hands on crypto experience and deep research acumen. I previously worked as a cost engineer for Skanska on $100+ million dollar heavy civil construction projects **(2019-2021)**. I have an educational background at Virginia Tech with a Bachelor’s in Mechanical Engineering **(2019)**. 
 
