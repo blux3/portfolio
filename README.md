@@ -10,7 +10,17 @@ I spend most of my time researching projects using crypto specific analytical to
 
 I am looking to bring my curiosity into a more structured environment with like minded people to help usher in a decade of decentralized, open, permissionless systems.
 
-## <b>Contact me</b>
+## <b>Writing Examples</b>
+
+Below are examples of previous research I’ve conducted. My goal was to simplify each event into clear, actionable terms for token holders and node operators. I then labeled each of the three events in terms of importance. This was a subjective assessment on the impact of the event on the network, users, or token holders.
+
+-[Gray Glacier Hard Fork](https://drive.google.com/file/d/1-3Q7hERkkETpOlirhdCEY7aDujil79x_/view?usp=sharing)
+  
+-[Terra 2.0 Launch](https://drive.google.com/file/d/1rJpWWd-Q-E0ZNlRZ_k4EDCvl6ZDSkLyg/view?usp=sharing)
+  
+-[DFK Avalanche Subnet Launch](https://drive.google.com/file/d/1HJJouoJsPzYFIcgCB50x6eGLpNWVCd7i/view?usp=sharing)
+
+### <b>Contact me</b>
 **Email:** brandon.luxemberg@gmail.com  
 **Phone:** 631.626.0837
 
