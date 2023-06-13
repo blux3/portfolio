@@ -10,9 +10,13 @@ I spend most of my time researching projects using crypto specific analytical to
 
 I am looking to bring my curiosity into a more structured environment with like minded people to help usher in a decade of decentralized, open, permissionless systems.
 
-## <b>Writing Examples</b>
+## <b>Research Examples</b>
 
-Below are examples of previous research I’ve conducted. My goal was to simplify each event into clear, actionable terms for token holders and node operators. I then labeled each of the three events in terms of importance. This was a subjective assessment on the impact of the event on the network, users, or token holders.
+Below are examples of previous research I’ve conducted.
+
+-[2023 Thoughts](https://drive.google.com/file/d/1zlJz0tcVnHfreVxGnTHBUEVnsd6BubRl/view?usp=drive_link)
+
+-[A Comprehensive Analysis of MUX Protocol](https://drive.google.com/file/d/1TGwg6IoYTUQ-nj7ctUCPW8RPNMTUVadD/view?usp=drive_link)
 
 -[Gray Glacier Hard Fork](https://drive.google.com/file/d/1-3Q7hERkkETpOlirhdCEY7aDujil79x_/view?usp=sharing)
   
